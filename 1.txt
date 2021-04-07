@@ -2,5 +2,4 @@ hello i am mingyu
 
 this text is made in "dev"
 
-this text is added in "master"
-
+added in dev
